@@ -1,0 +1,223 @@
+body {
+    margin: 0px;
+    margin-top: -16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* This is the header */
+#head-wrap {
+    /* height: 545px; */
+    width: 100%;
+    background-color: rgba(82, 84, 100, 0.432);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    padding: 20px;
+}
+
+#head-wrap .head-wrap-text {
+    width: auto;
+    text-align: center;
+    color: rgb(70, 70, 70);
+    /* padding-top: 180px; */
+}
+
+/* This is the main body */
+.secondL {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+
+.photos3 {
+    text-align: center;
+    padding-bottom: 20px;
+   
+}
+
+.photos3 .politi {
+    display: inline-block;
+}
+
+.photos3 img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin: 25px;
+    margin-bottom: 0px;
+}
+
+.photos3 p {
+    width: 230px;
+    height: 300px;
+    align-items: center;
+}
+
+.fourP {
+    background-color: rgb(255, 255, 255);
+}
+
+.photos4 img {
+    width: 150px;
+    height: 150px;
+    margin: 25px;
+}
+
+.photos4 {
+    text-align: center;
+}
+
+.instagramLogo {
+    text-align: center;
+}
+
+.fa {
+    font-size: 30px;
+    background-color: rgb(243, 239, 239);
+    color: dimgrey;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 5px;
+}    
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.thirdLine {
+    background-color: rgba(82, 84, 100, 0.432);
+    color: rgb(70, 70, 70);
+    text-align: center;
+    margin-bottom: 0px;
+    padding-bottom: 60px;
+}
+
+.textAk {
+    display: inline-block;
+    margin: 10px;
+    
+}
+
+#map { /* Map adjustments */
+    height: 200px;
+    width: 320px;
+    border-radius: 3px;
+}
+
+.button {
+    width: 326px;
+    height: 36px;
+    background-color: rgb(51, 46, 46);
+    border: none;
+    border-radius: 3px;
+}
+
+.button a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.bigTa {
+    height: 72px;
+}
+
+/* This is the footer */
+.footerT {
+    background-color: rgb(77, 72, 72);
+    padding-top: 30px;
+}
+
+.footerT a {
+    margin-top: 0px;
+}
+    
+ .footer_text {
+    color: rgb(70, 70, 70);
+    text-align: center;
+    margin-bottom: 0 auto;
+    
+}
+
+.footer_text p {
+    margin: 0 auto;
+    padding: auto;
+    background-color: rgb(51, 46, 46);
+}
+.x { 
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    letter-spacing: 3px;
+}
+
+.x li {
+    display: inline-block;
+    margin-left: 90px;
+}
+
+.x .badgets {
+    color: rgb(70, 70, 70);
+    text-decoration: none;
+}
+
+.x .fa {
+    border-radius: 50%;
+    background: rgba(128, 0, 0, 0.041);
+}
+
+.badgetGroup {
+    text-align: center;
+    padding-bottom: 33px;
+}
+
+.badgetGroup a {
+    border-radius: 50%;
+}
+
+hr {
+    width: 50%;
+}
+
+.bilder {
+    width: 200px;
+    height: 200px;  
+}
+
+.bildpamind {
+    size: 50%;
+}
+
+.forklaring {
+    margin: 20px;
+}
+
+.forklaring .forklaringp {
+    padding: 10px;
+}
+
+.link {
+    font-size: 25px;
+    text-decoration-style: none;
+}
+a:link {
+    text-decoration: none;
+}
+a:link, a:visited {
+    background-color: #292929;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: rgba(82, 84, 100, 0.432);
+}
+
+.textB {
+    color: rgb(70, 70, 70);
+}
