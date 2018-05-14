@@ -1,7 +1,7 @@
 body {
     margin: 0px;
     margin-top: -16px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway',sans-serif;
 }
 
 /* This is the header */
@@ -220,4 +220,17 @@ a:hover, a:active {
 
 .textB {
     color: rgb(70, 70, 70);
+}
+
+#bildparkering {
+    text-align: center;
+}
+    
+.imgparking {
+    width: 600px;
+    height: auto;
+}
+
+.maps {
+    
 }
